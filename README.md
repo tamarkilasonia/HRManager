@@ -3,21 +3,21 @@ Employee Management System is a Java-based console application designed to effic
 
 Features:
 
-1)Add New Employees Users can add new employees by providing details such as ID, name, age, position, and salary.
+1)Add New Employees : Users can add new employees by providing details such as ID, name, age, position, and salary.
 
 
-2)View All Employees
+2)View All Employees :
 Displays a list of all employees currently stored in the system.
 
-3)Search Employee by ID
+3)Search Employee by ID :
 Allows users to quickly search for an employee by entering their unique ID.
 
 
-4)Update Employee Information
+4)Update Employee Information :
  Modify existing employee details such as name, age, position, or salary.
 
-5)Remove Employees
+5)Remove Employees :
 Remove an employee's record from the system using their unique ID.
 
-6)Data Persistence
+6)Data Persistence :
 Employee data is saved to a file (employees.dat) using serialization, ensuring the information remains intact even after the program is closed.
